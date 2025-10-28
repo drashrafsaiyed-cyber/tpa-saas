@@ -1,0 +1,8 @@
+flask
+flask_sqlalchemy
+flask-jwt-extended
+werkzeug
+gunicorn
+psycopg2-binary
+python-dotenv
+openai>=1.40.0
